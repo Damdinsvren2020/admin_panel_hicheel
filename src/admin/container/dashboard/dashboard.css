@@ -1,0 +1,20 @@
+.Dashboards {
+  width: 100%;
+}
+.Dashboard_Container {
+  padding: 10px;
+  margin: auto;
+}
+.Dashboard_container {
+  display: flex;
+}
+.Dashboard_sidebar {
+  width: 300px;
+  height: 100vh;
+}
+.Dashboard_tables {
+  width: 100%;
+  margin-left: 10px;
+  height: 100vh;
+  padding: 30px;
+}
